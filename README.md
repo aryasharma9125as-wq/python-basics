@@ -1,4 +1,4 @@
-# Python Basics
+# Python Projects
 
 This repository contains beginner-level Python programs
 that I am building while learning programming from scratch.
