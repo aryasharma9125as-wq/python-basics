@@ -32,7 +32,7 @@ Actively learning and adding new programs regularly.
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/arya-sharma-dev/python-basics.git
+   git clone https://github.com/arya-sharma-dev/Python-Projects.git
 
 2. Navigate into the cloned folder:
    cd PythonProjects
